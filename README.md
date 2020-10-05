@@ -1,1 +1,1 @@
-# quizhw2
+JavaScript Quiz Homework UW Coding Boot Camp
