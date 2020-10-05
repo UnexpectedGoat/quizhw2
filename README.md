@@ -1,5 +1,6 @@
 JavaScript Quiz Homework UW Coding Boot Camp
 
+```
 GIVEN I am taking a code quiz
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
@@ -11,4 +12,4 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
-
+```
